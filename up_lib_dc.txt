@@ -1,6 +1,3 @@
 {
-  "latest_version": "2.0.6",
-  "status": true,
-  "plugin_name": "lib_uni",
   "download_url": "https://www.dropbox.com/scl/fo/slxffsoet2ece8ufw13gw/h?rlkey=xtkr6j1sghl6we8b7n67uoypp&dl=1"
 }
